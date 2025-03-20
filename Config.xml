@@ -228,7 +228,7 @@ EnterpriseBrowser_v5.0.0.13 Configuration file
 	  <ViewPort>
 		<UseWideViewPort value="1"/>
 		<ViewPortWidth value="device-width"/>
-		<ViewPortInitialScale value="2.0"/>
+		<ViewPortInitialScale value="1.0"/>
 	  </ViewPort>
     
 	  <DeviceKeys>
@@ -246,10 +246,7 @@ EnterpriseBrowser_v5.0.0.13 Configuration file
 	</MetaTagFiltering>
 	 
 	  <DefaultMetaTags>
-		 <MetaTag value="QuitButton~Visibility:Visible;width:50;heigth:50;left:405;top:10"/>
-		 <MetaTag value="Battery~left:80;top:10;Color:#008000;visibility:visible;"/>
-		 <MetaTag value="Signal~left:120;top:10;Color:#FF0000;visibility:visible;"/>								  
-			
+		 <MetaTag value="QuitButton~Visibility:Visible;width:50;heigth:50;left:405;top:10"/>	
       </DefaultMetaTags>
 
       <CustomDOMElements value="file://%INSTALLDIR%/android_sap/mysaptags.txt"/>
