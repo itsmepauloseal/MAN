@@ -228,7 +228,7 @@ EnterpriseBrowser_v5.0.0.13 Configuration file
 	  <ViewPort>
 		<UseWideViewPort value="1"/>
 		<ViewPortWidth value="device-width"/>
-		<ViewPortInitialScale value="1.0"/>
+		<ViewPortInitialScale value="2.0"/>
 	  </ViewPort>
     
 	  <DeviceKeys>
